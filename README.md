@@ -1,9 +1,10 @@
 # WinHealth: Ferramenta de Manutenção do Windows 🛠️
 WinHealth é um script de automação em Batch criado para facilitar a manutenção preventiva do Windows.
 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Batch](https://img.shields.io/badge/Batch-Script-4D4D4D?logo=windows&logoColor=white)](https://learn.microsoft.com/windows-server/administration/windows-commands/windows-commands)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5.1-5391FE?logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
+[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![WinGet](https://img.shields.io/badge/WinGet-App%20Installer-0078D4?logo=windows&logoColor=white)](https://learn.microsoft.com/windows/package-manager/winget/)
 
 ## Funcionalidades
 O script oferece um menu interativo com 10 opções principais e exibe informações importantes do sistema (SO, CPU, GPU, placa-mãe, RAM, disco e volume C) antes de executar as tarefas:
